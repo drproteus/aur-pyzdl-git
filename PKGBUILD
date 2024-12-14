@@ -1,3 +1,5 @@
+# Maintainer: Jake Goritski (jgoritski@gmail.com)
+pkgbase="aur-pyzdl-git"
 pkgname="pyzdl"
 pkgver="1.0.0"
 pkgrel=1
