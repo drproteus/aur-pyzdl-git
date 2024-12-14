@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=/usr/bin/pyzdl
+GenericName[en_US]=
+GenericName=
+Icon=alienarena
+MimeType=
+Name[en_US]=pyZDL
+Name=pyZDL
+Path=
+StartupNotify=false
+Terminal=false
+TerminalOptions=\s--noclose
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
