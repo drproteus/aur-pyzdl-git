@@ -11,7 +11,6 @@ package() {
   mkdir -p "${pkgdir}/usr/bin"
   mkdir -p "${pkgdir}/usr/share/pyzdl"
   cp -av "${srcdir}/pyzdl" "${pkgdir}/usr/share/."
-  # cp "run.sh" "${pkgdir}/usr/bin/pyzdl"
   echo "#!/bin/bash" >> "${pkgdir}/usr/bin/pyzdl"
   echo "python ${pkgdir}/usr/share/pyzdl/gui.py" >> "${pkgdir}/usr/bin/pyzdl"
   chmod +x "${pkgdir}/usr/bin/pyzdl"
