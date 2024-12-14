@@ -1,6 +1,6 @@
 # Maintainer: Jake Goritski (jgoritski@gmail.com)
-pkgbase="aur-pyzdl-git"
 pkgname="pyzdl"
+pkgbase="aur-pyzdl-git"
 pkgver="1.0.0"
 pkgrel=1
 pkgdesc="Doom launcher in Python"

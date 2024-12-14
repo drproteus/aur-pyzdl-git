@@ -1,4 +1,4 @@
-pkgbase = pyzdl
+pkgbase = aur-pyzdl-git
 	pkgdesc = Doom launcher in Python
 	pkgver = 1.0.0
 	pkgrel = 1
